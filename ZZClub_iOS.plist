@@ -17,7 +17,7 @@
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>needs-shine</key>
-					<false/>
+					<true/>
 					<key>url</key>
 					<string>https://github.com/clearlovelyQ/Enterprise_iOSApp/blob/master/57.png</string>
 				</dict>
@@ -25,7 +25,7 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>needs-shine</key>
-					<false/>
+					<true/>
 					<key>url</key>
 					<string>https://github.com/clearlovelyQ/Enterprise_iOSApp/blob/master/512.png</string>
 				</dict>
@@ -39,6 +39,8 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
+				<string>中住俱乐部</string>
+				<key>subtitle</key>
 				<string>中住俱乐部</string>
 			</dict>
 		</dict>
