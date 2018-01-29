@@ -15,7 +15,7 @@
 				</dict>
 				<dict>
 					<key>kind</key>
-					<string>full-size-image</string>
+					<string>full-image</string>
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
